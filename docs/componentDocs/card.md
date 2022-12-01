@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例
-<j-card imgSrc="/react.jpg" summary="React"></j-card>
+<j-card imgSrc="jawenUI/react.jpg" summary="React"></j-card>
 
 ### 代码
 ```html
